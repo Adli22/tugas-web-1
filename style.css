@@ -22,7 +22,7 @@ li {
     border: 1px solid #eeeeee'
 }
 .img {
-    background-image: url(ADLI.jpeg);
+    background-image: url(adli.jpeg);
     background-color: #7c7881;
     background-size: cover;
     border-radius: 100px;
@@ -36,7 +36,7 @@ h1 {
     font-size: 30px;
     margin: 0;
     font-weight: bold;
-    color: #6944ff;
+    color: #419ae2;
 }
 .text {
     text-align: center;
